@@ -1,0 +1,146 @@
+
+Daljit Singh
+DevOps-Cloud Engineer 
+linkedin.com/in/daljitsinz/
+ +91-9888466996; Email – daljit.in@gmail.com 
+Qualification Summary:
+
+I am working with BEBO Technologies as DevOps Engineer. I am associated with a product where Agile methodology is in integration to DEVOPS concept. With having total work experience of 6 + years in LINUX administration, virtualization, configuration, and installation related to UNIX flavours   and various tools.
+
+Work Experience: 6+ years
+
+•	Working in a role of DevOps Engineer in BEBO Technologies Pvt. Ltd. since July 2013 - till date (3yr 9m).
+•	Worked as Sr. System/Network Administrator at Haryana Agriculture University Hisar, Haryana from February 2012 to July 2013 on “Bharat IT Services role” (1yr 6m).
+•	Worked as Customer Support Engineer at Reserve Bank of India on Project of CMC India Ltd.(1yr)
+
+Tools and Technologies:
+
+•	Continuous Integration: Jenkins
+•	VCS Tools: SVN (Subversions), Tortoise-SVN, Git.
+•	Build Tools: Maven, Gradle and Ant.
+•	Scripting and automation: Bash Scripting and Ansible.
+•	Load balancer: HA-Proxy, Elastic Load Balancer (ELB).
+•	Web Server: Apache (HTTPd), Nginix
+•	Application Servers: Tomcat application server.
+•	Mail server: Postfix, Q-mail, send-mail.
+•	Virtualization: Virtual Box, Hyper V, SCCM, VMWARE, Vsphere, vCenter, Citrix, Xencenter.
+•	Memory Cache: memcached, Reddis.
+•	Logging: Log4J, GrayLog, ELK, syslog.
+•	Documentation: Redmin, Jira, Confluence, Wiki.
+•	Database: PostgresSQL, MYSQL.
+•	IAAS: Amazon (AWS-EC2, S3, ELB, EBS).
+•	Monitoring Tools: Nagios, New-Relic, Zabbix, Pager-Duty, and cloud-watch.
+•	Ticketing Tools: Jira, Service-Now.
+•	OS: Windows servers, SCCM, Ubuntu, UNIX, Redhat, CentOS, Fedora.
+•	Other Technologies: RabitMQ(for messaging), Elastic Search, RSA, SecurID, Heartbeat.
+
+Current Experience: BEBO Technologies Pvt. Ltd. (IT Park Chandigarh) 	       Since July 2013
+
+DevOps Engineer (Hylamobile.com):
+Working on a client project of leading telecommunication application for 24X7 shifts along with on-call support to provide error free production environment. The client is working with Agile integrated with an operation, having a great pace of development and production deployment. And being the part of DevOps team I work for below responsibilities:
+•	Working with Agile methodology practice and successful integration of operations (DevOps), resulted from frequent deployments without error.
+•	Application setup and configuration of non-production and Production environment using CI/CD tools.
+•	Managing Database servers and their replications for disaster.
+•	Active part of daily Agile SCRUM.
+•	Automating routine tasks like Database backups-restores using bash is one of the key tasks.
+•	Using Ansible for structure creation, user management over all servers was the latest activity.
+•	Responsible about deploying weekly releases on production environments.
+•	Integrate the continuous deployment on Non-Production and production server environment with the latest branches, have been performed using CI tool Jenkins.
+•	Updated high availability environment and setup a Fault tolerance architect of multiple servers have been configured.
+•	Involved extensively in troubleshooting bottlenecks of Memory, CPU, Devices and Network using ps, vmstat, iostat, netstat and SAR commands, tuning performance on both Production/ non-production servers.
+•	Responsible of architect level enhancement and changes throughout environment over the servers regarding configuration and resources.
+•	Customized Verification scripts to execute post-deployment steps.
+•	From Deployment plan creation over Wiki, up to performing all steps on production downtimes followed by monitoring the application.
+•	Created and tested the Disaster Recovery (DR) plans for all the deployments and actions over production servers.
+•	Storage management with the automated disaster recovery system had implemented.
+•	Managing DDOS attacks as well as other threats on application.
+•	SSL certificate management.
+•	IPtables management and other hardening tools for better security.
+•	Managed user level administrations over application servers as well as the database servers.
+•	Creating and providing effective solution from After Action Review (AAR) report.
+•	Implementation and suggestion of Log monitoring tools to client ELK stack, Graylog.
+•	Vulnerability tests and patching the vulnerabilities was the key responsibilities.
+•	The Client communication to discuss and understand various technical as well as the project related scenario and get them implemented in time.
+•	Acknowledgment of alerts and providing the resolution in defined service level agreement (SLA) was the priority task.
+•	The proper implementation of ITIL process for the efficient execution professionally.
+•	Trained and mentored a team of junior engineers to coordinate and perform the operational duties.
+•	All documentations including process, guidelines, deployment plans, DR plans, and Wiki pages were managed.
+
+Virtualization and Cloud Engineer (Genomichealth.com):
+Worked on a mixed platform for one US client of education sector having cloud infrastructure and virtualized environment including AWS as well as Hyper-V 2012. Microsoft Hyper-V 2012 platform which includes clustering and storage maintenance, related tasks supporting more than 1200 virtual Machines used for their research and development.
+
+•	AWS was used for their various web applications and tools over the Linux OS.
+•	Hands on experience with Hyper V manager 2012 and System Center Configuration Manager (SCCM 2012).
+•	Backup, snapshots and Restore of VMs and the other Microsoft related routine tasks.
+
+•	Ticket assessment using Service-Now Portal on daily basis to meet SLA.
+•	Nagios was used for triggering alerts
+•	Documented SOP (Standard Operating Procedures) as a part of Process Improvement Plan.
+
+System Engineer (Configuration Management Team)
+Operational Knowledge of Citrix XEN Hypervisor, XEN Center, Microsoft Hyper V servers, V-sphere clients,  and VMWARE ESXi technologies having multiple hosts.
+
+•	Migration from VMware Vsphere ESXi to Citrix XEN and the integration of Xen Centre with local active directory was performed to fulfil the In-house requirements.
+•	Performed various Linux-based, configuration and operational level in-house tasks.
+•	In-House FTP, Samba, NFS Server, implementation and administration.
+•	YUM Server Administration, Client Configuration for yum repo.
+•	HP, IBM, and Dell hardware, Blade/Rack Mount servers’ operational knowledge.
+•	Good understanding of Network devices, like switches, routers, and firewalls.
+•	Documentation of all processes and guidelines along with all implementations and customized wiki updates as per the scenario.
+
+Previous Company:  Bharat IT Services Pvt. Ltd.			       Feb 2012 to July 2014.
+
+During the tenure in this company I had worked for Haryana Agriculture University, Hisar as Senior System/Network Administrator and had performed following tasks:
+•	Managing the Web servers and university application consists of various upgrades as well as data management.
+•	Managed the mail server with a failover mail server setup.
+•	Configuration setup and maintenance of data servers of research and development of university’s various departments had been taken care.
+•	Red Hat Servers were configured with (Apache, tomcat, Q-mail, SQL Database).
+•	Network team was reporting me having all the Fibre network setup of nearly 1400 workstations.
+•	Server security and network security is an additional task in my bucket.
+•	Sever Disk Management and logs were managed.
+
+Previous Company:  CMC India Pvt. Ltd. 					Jan 2011 Feb 2012
+
+While working for CMC India Pvt. Ltd. I had worked on client site Central Bank of India as customer support engineer. There I have worked on Ubuntu OS to perform various database and CBS system related tasks includes Backup data on tapes and support to various branches of north location.
+•	Setup individual branch as Linux server configuration, to build an environment, as the gateway and their routine tasks.
+•	Creation of healthy and streamlined error-free backup environment for overall Zonal.
+•	Maintaining the Local Network over Ubuntu Server for user level tasks and backups.
+•	Responsible for overall North region Regional Offices of clients for network and systems.
+•	Maintaining the Linux data and CBS Servers and the Backups.
+•	Troubleshooting over Leased line, ISDN, CDMA and VSAT connectivity throughout the Area.
+•	Streamlined the environment of up to 1200 branches of clients, to provide the complete error free environment.
+•	Installed and configured Of Cisco router and Switches on new branches of Bank sites.
+
+
+Education and Training:
+
+	Certification			Red Hat Certified Engineer. ID (805011889459236)
+	MCSA 2012 Certified. MCID (11441629)
+	Sun Solaris System Administrator. ID (OC1087378)
+	CCNA Cisco Certified. ID (CSCO11580280)
+	
+	System Admin Training 		6 Months Industrial training at HBf India Ltd at Bangalore
+	Sys Admin Training 	 	2 Months training at TelExcell Technologies New Delhi
+	Network Training	 	VSNL Jalandhar
+
+	Masters			M.Sc. Networks & Protocol Designing (Regular), (GNDU) 2009.
+	Graduation 		 	B.Sc. Information Technology (Regular) from, (GNDU) 2007.
+
+Personal Details:
+
+	Father’s Name 			– Mr Avtar Singh
+	Date of birth 			– 29th Sept 1985
+	Marital Status 			– Un-married
+	Passport No			– L1060987 Valid Till (04/06/2023)
+	PAN NUMBER			– BMFPS0696Q
+	Address (Permanent)		– 356–A, Rail Coach Factory, 
+     		   Kapurthala, Punjab. (Pin 144602)
+	Address (Temporary)      	– #5329, MHC Mani Majra, Chandigarh UT.  
+
+Declaration:
+
+The information given here is true to best of my knowledge and proofs would be furnished whenever required. 
+
+
+Date: 
+Place: 											        Daljit Singh
